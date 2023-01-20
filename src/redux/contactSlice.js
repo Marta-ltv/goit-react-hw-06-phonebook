@@ -21,5 +21,5 @@ export const contactSlice = createSlice({
   },
 });
 
-export const { setStatusFilter, addContact, deleteContact } = contactSlice.actions;
+export const { setStatusFilter, addContacts, deleteContact } = contactSlice.actions;
 
